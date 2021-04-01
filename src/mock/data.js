@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'Recent bootcamp graduate with a background in Operations, Management, and Sales. Strong skills in team-building and project management, helps startups or established companies drive positive customer results and operational efficiencies.',
   paragraphTwo: 'Experience with React, Rails, Node, and JavaScript.',
-  paragraphThree: '',
+  paragraphThree: 'Check out my resume for more information.',
   resume:
     'https://docs.google.com/document/d/e/2PACX-1vTJ-ahNenqb9TSLe-55U9E2HXRXkxRhxC1iPle1u7-65uj8a-oMdaAT_wL9ZHM3JPps7wSRQca9s20G/pub', // if no resume, the button will not show up
 };
