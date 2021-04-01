@@ -30,7 +30,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'bglogger.png',
     title: 'BG Logger',
     info: 'React application with Rails backend',
     info2: '',
@@ -39,7 +39,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'watchnext.png',
     title: 'WatchNext',
     info: 'Vanilla Javascript application',
     info2: '',
