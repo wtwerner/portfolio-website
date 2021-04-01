@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hi, my name is',
   name: 'Tommy Werner',
-  subtitle: 'I am a full stack developer.',
+  subtitle: 'I am a software engineer.',
   cta: 'Learn More',
 };
 
@@ -34,7 +34,7 @@ export const projectsData = [
     info: 'React application with Rails backend',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/wtwerner/bg-logger-frontend', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -43,7 +43,16 @@ export const projectsData = [
     info: 'Vanilla Javascript application',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/wtwerner/WatchNext_Frontend', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project.jpg',
+    title: 'Weather App',
+    info: 'Node application',
+    info2: '',
+    url: 'https://weather.wtwerner.dev',
+    repo: 'https://github.com/wtwerner/node-weather-website', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -52,7 +61,7 @@ export const projectsData = [
     info: 'Rails MVC',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/wtwerner/LittleSpoon', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -61,7 +70,7 @@ export const projectsData = [
     info: 'Sinatra MVC',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/wtwerner/PresentPlanner', // if no repo, the button will not show up
   },
 ];
 
